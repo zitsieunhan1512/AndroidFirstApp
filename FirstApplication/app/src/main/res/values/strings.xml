@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="my_name">Mai Bảo Long</string>
+    <string name="password">0123456789</string>
+    <string name="hint_text">Enter text here!</string>
+</resources>
